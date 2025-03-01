@@ -118,7 +118,9 @@ The scraper includes comprehensive error handling:
 
 ## Legal Notice
 
-This scraper is for educational and research purposes only. :)
+This scraper is for educational and research purposes only. 
+
+:)
 
 ## License
 
